@@ -6,15 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/Code/Algorithm/ReverseListMToN/main.cpp
-unistd.h
--
+D:/Code/Algorithm/TestC/main.c
 stdio.h
--
-vector
--
-iostream
--
-cstring
 -
 

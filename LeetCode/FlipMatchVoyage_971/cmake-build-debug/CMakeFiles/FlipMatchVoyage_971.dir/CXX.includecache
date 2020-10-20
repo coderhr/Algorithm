@@ -6,15 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/Code/Algorithm/ReverseListMToN/main.cpp
-unistd.h
--
-stdio.h
--
-vector
--
+D:/Code/Algorithm/LeetCode/FlipMatchVoyage_971/main.cpp
 iostream
 -
-cstring
+vector
 -
 
